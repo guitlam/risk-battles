@@ -10,5 +10,7 @@ Il lui est demander d'entrer :
   - 
 Le programme simule tous les lancés de dés et affiche l'issue de l'attaque.
 
+
 Exemple :
+
 ![Screenshot from 2024-08-20 18-25-00](https://github.com/user-attachments/assets/d85f7b0a-5af6-49f7-a291-8cf592f56c08)
