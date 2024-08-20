@@ -1,5 +1,3 @@
-Risk battles
-
 Script Python qui permet de simuler les batailles du jeu de société Risk.
 
 Lorsqu'une partie de Risk est avancée, les joueurs disposent d'un grand nombre de régiments sur de nombreux territoires. Chacune des batailles ne pouvant engager que 3 régiments maximum pour l'attaquant et 2 régiments maximum pour le défenseur, les lancés de dés s'enchaînent de manière interminable.
